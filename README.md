@@ -1,1 +1,1 @@
-# React-Quiz-App
+# Quiz Application built with react
